@@ -1,0 +1,12 @@
+{
+  "name": "getfulldate",
+  "version": "1.0.1",
+  "description": "get full date",
+  "main": "index.js",
+  "keywords": [
+    "get",
+    "fulldate"
+  ],
+  "author": "Narayan Shrestha",
+  "license": "ISC"
+}
