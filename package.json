@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "get full date",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/menarayanzshrestha/getfulldate.git"
+  },
   "keywords": [
     "get",
     "fulldate"
