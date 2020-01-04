@@ -41,3 +41,7 @@ module.exports.getFullDate = (date, withTime = true) => {
 
   return `${m} ${d}, ${y} ${t}`;
 };
+
+exports.convertTo12HRFormat = convertTo12HRFormat;
+
+

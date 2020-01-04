@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "get full date",
   "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/menarayanzshrestha/getfulldate.git"
@@ -12,5 +15,8 @@
     "fulldate"
   ],
   "author": "Narayan Shrestha",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
