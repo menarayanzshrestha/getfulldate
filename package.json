@@ -1,6 +1,6 @@
 {
   "name": "getfulldate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "get full date",
   "main": "index.js",
   "scripts": {
