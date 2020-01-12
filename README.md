@@ -13,11 +13,3 @@ getFullDate(new Date(1578073312473), false));
 
 convertTo12HRFormat(new Date(1578073312473)));
 // 11:26 PM
-
-getLastActive(1578073312473,1578073312473); 
-// (t1, t2) t2 is current date and t1 is prevous date
-//Results looks like : 5 months 6 days 5 hours 6 minutes 
-
-getLastActive(1578073312473);
-// (t1, t2) t2 is current date(Date.now()) and t1 is prevous date
-Results looks like : 6 minutes 
