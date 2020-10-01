@@ -1,5 +1,5 @@
 # This is the package to get the full date out 
-for eg: Jan 01, 2020 11:23 AM
+For eg: Jan 01, 2020 11:23 AM
 
 How to use:
 
